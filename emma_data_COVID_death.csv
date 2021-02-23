@@ -1,0 +1,134 @@
+State,County,Urban_Rural_Code,Deaths_COVID,Deaths_total
+CA,Alameda,Large central metro,573,"10,908"
+CA,Alpine,,0,0
+CA,Amador,Noncore,31,415
+CA,Butte,Small metro,101,"2,313"
+CA,Calaveras,Noncore,12,385
+CA,Colusa,Noncore,12,116
+CA,Contra Costa,Large fringe metro,293,"8,181"
+CA,Del Norte,,0,0
+CA,El Dorado,,0,0
+CA,Fresno,Medium metro,679,"8,453"
+CA,Glenn,,0,0
+CA,Humboldt,Micropolitan,11,"1,243"
+CA,Imperial,Small metro,260,"1,266"
+CA,Inyo,Noncore,18,191
+CA,Kern,Medium metro,547,"6,816"
+CA,Kings,Small metro,156,"1,001"
+CA,Lake,Micropolitan,21,637
+CA,Lassen,,0,0
+CA,Los Angeles,Large central metro,"8,034","75,463"
+CA,Madera,Small metro,104,"1,014"
+CA,Marin,Large fringe metro,116,"2,060"
+CA,Mariposa,,0,0
+CA,Mendocino,Micropolitan,23,884
+CA,Merced,Medium metro,128,"1,608"
+CA,Modoc,,0,0
+CA,Mono,,0,0
+CA,Monterey,Medium metro,173,"2,815"
+CA,Napa,Small metro,33,"1,254"
+CA,Nevada,Micropolitan,48,"1,017"
+CA,Orange,Large central metro,"1,898","22,887"
+CA,Placer,Large fringe metro,184,"4,064"
+CA,Plumas,,0,0
+CA,Riverside,Large central metro,"1,859","19,405"
+CA,Sacramento,Large central metro,763,"13,152"
+CA,San Benito,Large fringe metro,17,305
+CA,San Bernardino,Large fringe metro,"1,804","17,369"
+CA,San Diego,Large central metro,"1,505","24,354"
+CA,San Francisco,Large central metro,188,"6,394"
+CA,San Joaquin,Medium metro,597,"6,214"
+CA,San Luis Obispo,Medium metro,62,"2,332"
+CA,San Mateo,Large fringe metro,223,"4,779"
+CA,Santa Barbara,Medium metro,166,"3,470"
+CA,Santa Clara,Large central metro,556,"11,551"
+CA,Santa Cruz,Medium metro,80,"1,743"
+CA,Shasta,Small metro,82,"2,525"
+CA,Sierra,,0,0
+CA,Siskiyou,,0,0
+CA,Solano,Medium metro,153,"3,539"
+CA,Sonoma,Medium metro,186,"4,344"
+CA,Stanislaus,Medium metro,678,"5,852"
+CA,Sutter,Small metro,23,590
+CA,Tehama,Micropolitan,29,572
+CA,Trinity,,0,0
+CA,Tulare,Medium metro,385,"3,434"
+CA,Tuolumne,Micropolitan,25,684
+CA,Ventura,Medium metro,243,"6,076"
+CA,Yolo,Large fringe metro,88,"1,251"
+CA,Yuba,Small metro,34,785
+OR,Baker,,0,0
+OR,Benton,Small metro,12,653
+OR,Clackamas,Large fringe metro,95,"3,475"
+OR,Clatsop,,0,0
+OR,Columbia,,0,0
+OR,Coos,,0,0
+OR,Crook,,0,0
+OR,Curry,,0,0
+OR,Deschutes,Small metro,35,"1,714"
+OR,Douglas,Micropolitan,22,"1,472"
+OR,Gilliam,,0,0
+OR,Grant,,0,0
+OR,Harney,,0,0
+OR,Hood River,,0,0
+OR,Jackson,Small metro,51,"2,594"
+OR,Jefferson,,0,0
+OR,Josephine,Small metro,10,"1,172"
+OR,Klamath,,0,0
+OR,Lake,,0,0
+OR,Lane,Medium metro,58,"4,017"
+OR,Lincoln,Micropolitan,13,534
+OR,Linn,Small metro,28,"1,361"
+OR,Malheur,Micropolitan,13,283
+OR,Marion,Medium metro,143,"2,943"
+OR,Morrow,,0,0
+OR,Multnomah,Large central metro,396,"7,139"
+OR,Polk,,0,0
+OR,Sherman,,0,0
+OR,Tillamook,,0,0
+OR,Umatilla,Micropolitan,40,638
+OR,Union,,0,0
+OR,Wallowa,,0,0
+OR,Wasco,Micropolitan,17,314
+OR,Washington,Large fringe metro,168,"3,718"
+OR,Wheeler,,0,0
+OR,Yamhill,Large fringe metro,22,911
+WA,Adams,,0,0
+WA,Asotin,Small metro,15,234
+WA,Benton,Medium metro,205,"2,024"
+WA,Chelan,Small metro,65,975
+WA,Clallam,,0,0
+WA,Clark,Large fringe metro,128,"4,093"
+WA,Columbia,,0,0
+WA,Cowlitz,,0,0
+WA,Douglas,,0,0
+WA,Ferry,,0,0
+WA,Franklin,Medium metro,63,356
+WA,Garfield,,0,0
+WA,Grant,Micropolitan,42,606
+WA,Grays Harbor,Micropolitan,18,746
+WA,Island,Micropolitan,25,604
+WA,Jefferson,,0,0
+WA,King,Large central metro,989,"14,905"
+WA,Kitsap,Medium metro,28,"2,093"
+WA,Kittitas,Micropolitan,21,306
+WA,Klickitat,,0,0
+WA,Lewis,Micropolitan,18,821
+WA,Lincoln,,0,0
+WA,Mason,Micropolitan,10,533
+WA,Okanogan,Noncore,21,348
+WA,Pacific,,0,0
+WA,Pend Oreille,,0,0
+WA,Pierce,Large fringe metro,316,"7,650"
+WA,San Juan,,0,0
+WA,Skagit,Small metro,38,"1,301"
+WA,Skamania,,0,0
+WA,Snohomish,Large fringe metro,284,"5,600"
+WA,Spokane,Medium metro,344,"5,751"
+WA,Stevens,,0,0
+WA,Thurston,Medium metro,56,"2,537"
+WA,Wahkiakum,,0,0
+WA,Walla Walla,Small metro,38,651
+WA,Whatcom,Small metro,63,"1,881"
+WA,Whitman,Micropolitan,21,269
+WA,Yakima,Small metro,266,"2,239"

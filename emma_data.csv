@@ -1,0 +1,134 @@
+Urban_Rural_Code,Deaths_COVID,Deaths_total,Location
+Large central metro,573,10908,Alameda_CA
+,0,0,Alpine_CA
+Noncore,31,415,Amador_CA
+Small metro,101,2313,Butte_CA
+Noncore,12,385,Calaveras_CA
+Noncore,12,116,Colusa_CA
+Large fringe metro,293,8181,Contra Costa_CA
+,0,0,Del Norte_CA
+,0,0,El Dorado_CA
+Medium metro,679,8453,Fresno_CA
+,0,0,Glenn_CA
+Micropolitan,11,1243,Humboldt_CA
+Small metro,260,1266,Imperial_CA
+Noncore,18,191,Inyo_CA
+Medium metro,547,6816,Kern_CA
+Small metro,156,1001,Kings_CA
+Micropolitan,21,637,Lake_CA
+,0,0,Lassen_CA
+Large central metro,8034,75463,Los Angeles_CA
+Small metro,104,1014,Madera_CA
+Large fringe metro,116,2060,Marin_CA
+,0,0,Mariposa_CA
+Micropolitan,23,884,Mendocino_CA
+Medium metro,128,1608,Merced_CA
+,0,0,Modoc_CA
+,0,0,Mono_CA
+Medium metro,173,2815,Monterey_CA
+Small metro,33,1254,Napa_CA
+Micropolitan,48,1017,Nevada_CA
+Large central metro,1898,22887,Orange_CA
+Large fringe metro,184,4064,Placer_CA
+,0,0,Plumas_CA
+Large central metro,1859,19405,Riverside_CA
+Large central metro,763,13152,Sacramento_CA
+Large fringe metro,17,305,San Benito_CA
+Large fringe metro,1804,17369,San Bernardino_CA
+Large central metro,1505,24354,San Diego_CA
+Large central metro,188,6394,San Francisco_CA
+Medium metro,597,6214,San Joaquin_CA
+Medium metro,62,2332,San Luis Obispo_CA
+Large fringe metro,223,4779,San Mateo_CA
+Medium metro,166,3470,Santa Barbara_CA
+Large central metro,556,11551,Santa Clara_CA
+Medium metro,80,1743,Santa Cruz_CA
+Small metro,82,2525,Shasta_CA
+,0,0,Sierra_CA
+,0,0,Siskiyou_CA
+Medium metro,153,3539,Solano_CA
+Medium metro,186,4344,Sonoma_CA
+Medium metro,678,5852,Stanislaus_CA
+Small metro,23,590,Sutter_CA
+Micropolitan,29,572,Tehama_CA
+,0,0,Trinity_CA
+Medium metro,385,3434,Tulare_CA
+Micropolitan,25,684,Tuolumne_CA
+Medium metro,243,6076,Ventura_CA
+Large fringe metro,88,1251,Yolo_CA
+Small metro,34,785,Yuba_CA
+,0,0,Baker_OR
+Small metro,12,653,Benton_OR
+Large fringe metro,95,3475,Clackamas_OR
+,0,0,Clatsop_OR
+,0,0,Columbia_OR
+,0,0,Coos_OR
+,0,0,Crook_OR
+,0,0,Curry_OR
+Small metro,35,1714,Deschutes_OR
+Micropolitan,22,1472,Douglas_OR
+,0,0,Gilliam_OR
+,0,0,Grant_OR
+,0,0,Harney_OR
+,0,0,Hood River_OR
+Small metro,51,2594,Jackson_OR
+,0,0,Jefferson_OR
+Small metro,10,1172,Josephine_OR
+,0,0,Klamath_OR
+,0,0,Lake_OR
+Medium metro,58,4017,Lane_OR
+Micropolitan,13,534,Lincoln_OR
+Small metro,28,1361,Linn_OR
+Micropolitan,13,283,Malheur_OR
+Medium metro,143,2943,Marion_OR
+,0,0,Morrow_OR
+Large central metro,396,7139,Multnomah_OR
+,0,0,Polk_OR
+,0,0,Sherman_OR
+,0,0,Tillamook_OR
+Micropolitan,40,638,Umatilla_OR
+,0,0,Union_OR
+,0,0,Wallowa_OR
+Micropolitan,17,314,Wasco_OR
+Large fringe metro,168,3718,Washington_OR
+,0,0,Wheeler_OR
+Large fringe metro,22,911,Yamhill_OR
+,0,0,Adams_WA
+Small metro,15,234,Asotin_WA
+Medium metro,205,2024,Benton_WA
+Small metro,65,975,Chelan_WA
+,0,0,Clallam_WA
+Large fringe metro,128,4093,Clark_WA
+,0,0,Columbia_WA
+,0,0,Cowlitz_WA
+,0,0,Douglas_WA
+,0,0,Ferry_WA
+Medium metro,63,356,Franklin_WA
+,0,0,Garfield_WA
+Micropolitan,42,606,Grant_WA
+Micropolitan,18,746,Grays Harbor_WA
+Micropolitan,25,604,Island_WA
+,0,0,Jefferson_WA
+Large central metro,989,14905,King_WA
+Medium metro,28,2093,Kitsap_WA
+Micropolitan,21,306,Kittitas_WA
+,0,0,Klickitat_WA
+Micropolitan,18,821,Lewis_WA
+,0,0,Lincoln_WA
+Micropolitan,10,533,Mason_WA
+Noncore,21,348,Okanogan_WA
+,0,0,Pacific_WA
+,0,0,Pend Oreille_WA
+Large fringe metro,316,7650,Pierce_WA
+,0,0,San Juan_WA
+Small metro,38,1301,Skagit_WA
+,0,0,Skamania_WA
+Large fringe metro,284,5600,Snohomish_WA
+Medium metro,344,5751,Spokane_WA
+,0,0,Stevens_WA
+Medium metro,56,2537,Thurston_WA
+,0,0,Wahkiakum_WA
+Small metro,38,651,Walla Walla_WA
+Small metro,63,1881,Whatcom_WA
+Micropolitan,21,269,Whitman_WA
+Small metro,266,2239,Yakima_WA
